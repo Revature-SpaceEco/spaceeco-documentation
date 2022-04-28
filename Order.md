@@ -3,12 +3,14 @@
 
 Table of Contents |
 ------------------|
-[Request Types](#Request-Types)
- 
+Requests
+[GET](#GET)
+[POST](#POST)
+
 ## Possible Response Codes
 400
     
-    Possible causes: 
+    Possible causes: Order is missing data
 
 404
     
