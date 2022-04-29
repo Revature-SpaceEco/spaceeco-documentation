@@ -10,7 +10,6 @@ Table of Contents |
 [DELETE](#DELETE)
 |
 
-
 ## Request Types
 
 ### GET
