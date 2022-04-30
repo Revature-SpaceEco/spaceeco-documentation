@@ -4,7 +4,7 @@ Table of Contents |
 ------------------|
 [Overview](#Overview)
 [Endpoints](#Endpoints)
-|
+
 
 ## Overview
 
