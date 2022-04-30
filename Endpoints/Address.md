@@ -4,7 +4,6 @@ Request Types |
 ------------------|
 [GET ONE](#End-point-Get-Singular-Address)
 [POST](#End-point-Add-Singular-Address)
-|
 
 
 ## End-point: Get Singluar Address

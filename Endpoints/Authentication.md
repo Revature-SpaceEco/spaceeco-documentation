@@ -2,8 +2,7 @@
 
 Request Types |
 ------------------|
-[LOGIN](#End-point:-Authenticate-User)
-|
+[LOGIN](#End-point-Authenticate-User)
 
 
 ## End-point: Authenticate User

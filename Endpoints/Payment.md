@@ -6,7 +6,6 @@ Request Types |
 [POST](#End-point-Add--Singular-Payment-As-User)
 [PATCH](#End-point-Update-Payment)
 [DELETE](#End-point-Delete-Payment)
-|
 
 
 ## End-point: Get Singular Payment As User

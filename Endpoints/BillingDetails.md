@@ -7,7 +7,6 @@ Request Types |
 [POST](#End-point-Add-Billing-Detail-For-User)
 [UPDATE](#End-point-Update-Billing-Detail)
 [DELETE](#End-point-Delete-Billing-Detail)
-|
 
 
 ## End-point: Singular Billing Detail As User

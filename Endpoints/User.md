@@ -4,7 +4,6 @@ Request Types |
 ------------------|
 [GET ONE](#End-point-Get-Singular-User)
 [POST](#End-point-Add-Singular-User)
-|
 
 
 ## End-point: Get Singular User

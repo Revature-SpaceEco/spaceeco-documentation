@@ -8,7 +8,6 @@ Request Types |
 [GET ONE FOR USER](#End-point-Singular-Order-As-User)
 [POST](#End-point-Add-Order-For-User)
 [DELETE](#End-point-Delete-Order-For-User)
-|
 
 
 ## End-point: All Orders As Admin
