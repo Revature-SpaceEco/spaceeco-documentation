@@ -2,10 +2,10 @@
 
 Request Types |
 ------------------|
-[GET ONE FOR USER](#End-point:-Get-Singular-Payment-As-User)
-[POST](#End-point:-Add--Singular-Payment-As-User)
-[PATCH](#End-point:-Update-Payment)
-[DELETE](#End-point:-Delete-Payment)
+[GET ONE FOR USER](#End-point-Get-Singular-Payment-As-User)
+[POST](#End-point-Add--Singular-Payment-As-User)
+[PATCH](#End-point-Update-Payment)
+[DELETE](#End-point-Delete-Payment)
 |
 
 

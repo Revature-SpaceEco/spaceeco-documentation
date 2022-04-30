@@ -2,8 +2,8 @@
 
 Request Types |
 ------------------|
-[GET ALL](#End-point:-Get-All-Products)
-[GET ONE](#End-point:-Get-Singular-Product)
+[GET ALL](#End-point-Get-All-Products)
+[GET ONE](#End-point-Get-Singular-Product)
 |
 
 

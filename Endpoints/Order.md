@@ -3,11 +3,11 @@
 
 Request Types |
 ------------------|
-[GET ALL](#End-point:-All-Orders-As-Admin)
-[GET ONE FOR USER](#End-point:-All-Orders-As-User)
-[GET ONE FOR USER](#End-point:-Singular-Order-As-User)
-[POST](#End-point:-Add-Order-For-User)
-[DELETE](#End-point:-Delete-Order-For-User)
+[GET ALL](#End-point-All-Orders-As-Admin)
+[GET ONE FOR USER](#End-point-All-Orders-As-User)
+[GET ONE FOR USER](#End-point-Singular-Order-As-User)
+[POST](#End-point-Add-Order-For-User)
+[DELETE](#End-point-Delete-Order-For-User)
 |
 
 

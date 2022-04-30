@@ -2,8 +2,8 @@
 
 Request Types |
 ------------------|
-[GET ONE](#End-point:-Get-Singular-Address)
-[POST](#End-point:-Add-Singular-Address)
+[GET ONE](#End-point-Get-Singular-Address)
+[POST](#End-point-Add-Singular-Address)
 |
 
 

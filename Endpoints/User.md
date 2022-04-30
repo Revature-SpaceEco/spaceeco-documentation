@@ -2,10 +2,10 @@
 
 Request Types |
 ------------------|
-[GET ONE](#End-point:-Get-Singular-User)
-[POST](#End-point:-Add-Singular-User)
+[GET ONE](#End-point-Get-Singular-User)
+[POST](#End-point-Add-Singular-User)
 |
-<!-- [GET ALL](#End-point:-Get-all-users) -->
+
 
 ## End-point: Get Singular User
 This endpoint is for getting a user by id using a GET request.

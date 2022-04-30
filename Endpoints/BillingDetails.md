@@ -3,10 +3,10 @@
 
 Request Types |
 ------------------|
-[GET ONE FOR USER](#End-point:-Singular-Billing-Detail-As-User)
-[POST](#End-point:-Add-Billing-Detail-For-User)
-[UPDATE](#End-point:-Update-Billing-Detail)
-[DELETE](#End-point:-Delete-Billing-Detail)
+[GET ONE FOR USER](#End-point-Singular-Billing-Detail-As-User)
+[POST](#End-point-Add-Billing-Detail-For-User)
+[UPDATE](#End-point-Update-Billing-Detail)
+[DELETE](#End-point-Delete-Billing-Detail)
 |
 
 
