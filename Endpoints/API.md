@@ -15,10 +15,11 @@ The **SpaceEco APIs** bring together the e-commerce platform and allows develope
 The base URL for the endpoints is: 
 
 The endpoints for the SpaceEco API are linked below and include:
-* [Product](./Product.md)
 * [User](./User.md)
-* [Order](./Order.md)
+* [Authentication](./Authentication.md)
 * [Address](./Address.md)
 * [Payment](./Payment.md)
 * [BillingDetails](./BillingDetails.md)
+* [Product](./Product.md)
 * [Cart](./Cart.md)
+* [Order](./Order.md)

@@ -1,15 +1,15 @@
 # SpaceEco: User
 
-
 Request Types |
 ------------------|
-[GET ONE](#End-point:-Get-a-user)
-[POST](#End-point:-Add-a-user)
+[GET ONE](#End-point:-Get-Singular-User)
+[POST](#End-point:-Add-Singular-User)
 |
 <!-- [GET ALL](#End-point:-Get-all-users) -->
 
-## End-point: Get a user
+## End-point: Get Singular User
 This endpoint is for getting a user by id using a GET request.
+
 ### Method: GET
 >```
 >http://35.232.101.198:8080/users/1
@@ -71,8 +71,9 @@ This endpoint is for getting a user by id using a GET request.
 ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃
 
 
-## End-point: Add a user
+## End-point: Add Singular User
 This endpoint is for creating a user using a POST request.
+
 ### Method: POST
 >```
 >http://35.232.101.198:8080/users
