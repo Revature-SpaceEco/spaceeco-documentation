@@ -101,7 +101,7 @@ Further documentation is included in this repository in regards to the project. 
 -  Bryce Fransen: [:octocat:](https://github.com/)
 -  Caitlin Talerico: [:octocat:](https://github.com/cait-tal)
 -  Deepak Agarwal: [:octocat:](https://github.com/)
--  Devathidhan S: [:octocat:](https://github.com/)
+-  Devathidhan S: [:octocat:](https://github.com/DevaGitLearner)
 -  Garrett McPherson: [:octocat:](https://github.com/akalink)
 -  George Balch: [:octocat:](https://github.com/polydin)
 -  Giancarlo Surce: [:octocat:](https://github.com/)
