@@ -113,7 +113,7 @@ Further documentation is included in this repository in regards to the project. 
 -  John Le: [:octocat:](https://github.com/kh-nguyen-le)
 -  Monika (Ayesha) Solanki: [:octocat:](https://github.com/)
 -  Nikiloi Ellis: [:octocat:](https://github.com/)
--  Samuel Valencia: [:octocat:](https://github.com/)
+-  Samuel Valencia: [:octocat:](https://github.com/SamuelVZ)
 -  Shayne McPherson: [:octocat:](https://github.com/shaynemcp)
 -  Serena Guo: [:octocat:](https://github.com/)
 -  Soma: [:octocat:](https://github.com/)
