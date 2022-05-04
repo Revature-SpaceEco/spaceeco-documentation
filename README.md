@@ -92,7 +92,7 @@ Further documentation is included in this repository in regards to the project. 
 ## Authors
 
 * Abel Asres: [:octocat:](https://github.com/)
-* Ankur Shahi: [:octocat:](https://github.com/)
+* Ankur Shahi: [:octocat:](https://github.com/ankurshahi80)
 * Andleeb Farooq: [:octocat:](https://github.com/cerafinn)
 * Buhari Maiwada: [:octocat:](https://github.com/)
 * Bryce Fransen: [:octocat:](https://github.com/)
