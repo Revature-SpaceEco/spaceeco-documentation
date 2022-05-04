@@ -105,7 +105,7 @@ Further documentation is included in this repository in regards to the project. 
 -  Garrett McPherson: [:octocat:](https://github.com/akalink)
 -  George Balch: [:octocat:](https://github.com/polydin)
 -  Giancarlo Surce: [:octocat:](https://github.com/)
--  Jack Ziegler: [:octocat:](https://github.com/)
+-  Jack Ziegler: [:octocat:](https://github.com/wumby)
 -  Javanshir Pashayev: [:octocat:](https://github.com/jpashayev)
 -  Jenob Job: [:octocat:](https://github.com/jenobpj)
 -  Jiwon Shim: [:octocat:](https://github.com/)
@@ -118,6 +118,6 @@ Further documentation is included in this repository in regards to the project. 
 -  Serena Guo: [:octocat:](https://github.com/)
 -  Soma: [:octocat:](https://github.com/)
 -  Tien Le: [:octocat:](https://github.com/tientle84)
--  -  Tien Le: [:octocat:](https://github.com/wumby)
+
 
 <br />
