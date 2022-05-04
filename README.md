@@ -4,7 +4,9 @@
 
 SpaceEco is an intergalactic, after-market e-commerce site that allows users to buy and sell items associated with interstellar life. Users are able to sign up to create an account and are redirected to their profile. Clicking on the Catalog link at the top of the page allows users to view the products. From there, users are able to view products and click on a specific products to view the product in greater detail. From there we can buy the selected product. Products can be anything from an arce on Mars to stars lightyears from the Milky Way.
 
-![GitHub license badge](https://img.shields.io/badge/license-GNU%20GPL-orange?style=for-the-badge&logo=appveyor) ![GitHub backend coverage badge](https://img.shields.io/badge/backend%20coverage-86.6%25-brightgreen?style=for-the-badge&logo=appveyor) ![GitHub frontend coverage badge](https://img.shields.io/badge/frontend%20coverage-46.4%25-yellow?style=for-the-badge&logo=appveyor)
+< br/>
+
+![GitHub license badge](https://img.shields.io/badge/license-GNU%20GPL-orange) Frontend: [![Frontend Coverage](https://sonarcloud.io/api/project_badges/measure?project=Revature-SpaceEco_spaceeco-backend&metric=coverage)](https://sonarcloud.io/summary/new_code?id=Revature-SpaceEco_spaceeco-backend) Backend: [![Fontend Coverage](https://sonarcloud.io/api/project_badges/measure?project=Revature-SpaceEco_spaceeco-frontend&metric=coverage)](https://sonarcloud.io/summary/new_code?id=Revature-SpaceEco_spaceeco-frontend)
 
 | Table of Contents |
 | ----------------- |
