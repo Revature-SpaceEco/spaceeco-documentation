@@ -121,7 +121,7 @@ Backend Link: [Repo Link](https://github.com/Revature-SpaceEco/spaceeco-backend)
 
 ## License
 
-The license for this project is the GNU GPL. For full details, refer to the LICENSE.md file within the repository.
+The license for this project is the GNU GPL. For full details, refer to the [LICENSE.md](./LICENSE.md) file within the repository.
 
 ## Tests
 
