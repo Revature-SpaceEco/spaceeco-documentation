@@ -110,7 +110,7 @@ Further documentation is included in this repository in regards to the project. 
 -  Jenob Job: [:octocat:](https://github.com/jenobpj)
 -  Jiwon Shim: [:octocat:](https://github.com/)
 -  Joe Bahugun: [:octocat:](https://github.com/jbahugun)
--  John Le: [:octocat:](https://github.com/)
+-  John Le: [:octocat:](https://github.com/kh-nguyen-le)
 -  Monika (Ayesha) Solanki: [:octocat:](https://github.com/)
 -  Nikiloi Ellis: [:octocat:](https://github.com/)
 -  Samuel Valencia: [:octocat:](https://github.com/)
