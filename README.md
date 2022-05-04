@@ -107,7 +107,7 @@ Further documentation is included in this repository in regards to the project. 
 -  Giancarlo Surce: [:octocat:](https://github.com/)
 -  Jack Ziegler: [:octocat:](https://github.com/)
 -  Javanshir Pashayev: [:octocat:](https://github.com/jpashayev)
--  Jenob PJ: [:octocat:](https://github.com/)
+-  Jenob Job: [:octocat:](https://github.com/jenobpj)
 -  Jiwon Shim: [:octocat:](https://github.com/)
 -  Joe Bahugun: [:octocat:](https://github.com/jbahugun)
 -  John Le: [:octocat:](https://github.com/)
