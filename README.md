@@ -6,7 +6,7 @@ SpaceEco is an intergalactic, after-market e-commerce site that allows users to 
 
 <br />
 
-![GitHub license badge](https://img.shields.io/badge/license-GNU%20GPL-orange) Frontend: [![Frontend Coverage](https://sonarcloud.io/api/project_badges/measure?project=Revature-SpaceEco_spaceeco-backend&metric=coverage)](https://sonarcloud.io/summary/new_code?id=Revature-SpaceEco_spaceeco-backend) Backend: [![Fontend Coverage](https://sonarcloud.io/api/project_badges/measure?project=Revature-SpaceEco_spaceeco-frontend&metric=coverage)](https://sonarcloud.io/summary/new_code?id=Revature-SpaceEco_spaceeco-frontend)
+![GitHub license badge](https://img.shields.io/badge/license-GNU%20GPL-orange) Backend: [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=Revature-SpaceEco_spaceeco-backend&metric=coverage)](https://sonarcloud.io/summary/new_code?id=Revature-SpaceEco_spaceeco-backend) Frontend: [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=Revature-SpaceEco_spaceeco-frontend&metric=coverage)](https://sonarcloud.io/summary/new_code?id=Revature-SpaceEco_spaceeco-frontend)
 
 Table of Contents |
 ----------------- |
@@ -94,29 +94,29 @@ Further documentation is included in this repository in regards to the project. 
 
 ## Authors
 
--  Abel Asres: [:octocat:](https://github.com/)
+-  Abel Asres: [:octocat:](https://github.com/abelAsres)
 -  Ankur Shahi: [:octocat:](https://github.com/ankurshahi80)
 -  Andleeb Farooq: [:octocat:](https://github.com/cerafinn)
--  Buhari Maiwada: [:octocat:](https://github.com/)
--  Bryce Fransen: [:octocat:](https://github.com/)
+-  Buhari Maiwada: [:octocat:](https://github.com/Bsoftmaewada)
+-  Bryce Fransen: [:octocat:](https://github.com/bryce-f)
 -  Caitlin Talerico: [:octocat:](https://github.com/cait-tal)
--  Deepak Agarwal: [:octocat:](https://github.com/)
+-  Deepak Agarwal: [:octocat:](https://github.com/dennisagarwal)
 -  Devathidhan S: [:octocat:](https://github.com/DevaGitLearner)
 -  Garrett McPherson: [:octocat:](https://github.com/akalink)
 -  George Balch: [:octocat:](https://github.com/polydin)
--  Giancarlo Surce: [:octocat:](https://github.com/)
+-  Giancarlo Surce: [:octocat:](https://github.com/Gizu007)
 -  Jack Ziegler: [:octocat:](https://github.com/wumby)
 -  Javanshir Pashayev: [:octocat:](https://github.com/jpashayev)
 -  Jenob Job: [:octocat:](https://github.com/jenobpj)
--  Jiwon Shim: [:octocat:](https://github.com/)
+-  Jiwon Shim: [:octocat:](https://github.com/jshim0209)
 -  Joe Bahugun: [:octocat:](https://github.com/jbahugun)
 -  John Le: [:octocat:](https://github.com/kh-nguyen-le)
 -  Monika (Ayesha) Solanki: [:octocat:](https://github.com/)
 -  Nikiloi Ellis: [:octocat:](https://github.com/)
 -  Samuel Valencia: [:octocat:](https://github.com/SamuelVZ)
 -  Shayne McPherson: [:octocat:](https://github.com/shaynemcp)
--  Serena Guo: [:octocat:](https://github.com/)
--  Soma: [:octocat:](https://github.com/)
+-  Serena Guo: [:octocat:](https://github.com/siyanguo)
+-  Soma: [:octocat:](https://github.com/soma-jan)
 -  Tien Le: [:octocat:](https://github.com/tientle84)
 
 
