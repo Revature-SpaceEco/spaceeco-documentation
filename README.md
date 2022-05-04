@@ -161,7 +161,7 @@ Further documentation is included in this repository in regards to the project. 
 -  Jiwon Shim: [:octocat:](https://github.com/jshim0209)
 -  Joe Bahugun: [:octocat:](https://github.com/jbahugun)
 -  John Le: [:octocat:](https://github.com/kh-nguyen-le)
--  Monika (Ayesha) Solanki: [:octocat:](https://github.com/)
+-  Monika (Ayesha) Solanki: [:octocat:](https://github.com/Ayesha231294)
 -  Nikoloi Ellis: [:octocat:](https://github.com/nikoloi-ellis)
 -  Samuel Valencia: [:octocat:](https://github.com/SamuelVZ)
 -  Shayne McPherson: [:octocat:](https://github.com/shaynemcp)
