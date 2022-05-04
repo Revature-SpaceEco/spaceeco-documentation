@@ -6,7 +6,13 @@ SpaceEco is an intergalactic, after-market e-commerce site that allows users to 
 
 <br />
 
-![GitHub license badge](https://img.shields.io/badge/license-GNU%20GPL-orange) Backend: [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=Revature-SpaceEco_spaceeco-backend&metric=coverage)](https://sonarcloud.io/summary/new_code?id=Revature-SpaceEco_spaceeco-backend) Frontend: [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=Revature-SpaceEco_spaceeco-frontend&metric=coverage)](https://sonarcloud.io/summary/new_code?id=Revature-SpaceEco_spaceeco-frontend)
+![GitHub license badge](https://img.shields.io/badge/license-GNU%20GPL-orange)
+
+Backend: <br />
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=Revature-SpaceEco_spaceeco-backend&metric=coverage)](https://sonarcloud.io/summary/new_code?id=Revature-SpaceEco_spaceeco-backend)
+
+Frontend: <br />
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=Revature-SpaceEco_spaceeco-frontend&metric=coverage)](https://sonarcloud.io/summary/new_code?id=Revature-SpaceEco_spaceeco-frontend)
 
 Table of Contents |
 ----------------- |
