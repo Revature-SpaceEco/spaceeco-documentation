@@ -99,7 +99,7 @@ Further documentation is included in this repository in regards to the project. 
 * Caitlin Talerico: [:octocat:](https://github.com/)
 * Deepak Agarwal: [:octocat:](https://github.com/)
 * Devathidhan S: [:octocat:](https://github.com/)
-* Garrett McPherson: [:octocat:](https://github.com/)
+* Garrett McPherson: [:octocat:](https://github.com/akalink)
 * George Balch: [:octocat:](https://github.com/polydin)
 * Giancarlo Surce: [:octocat:](https://github.com/)
 * Jack Ziegler: [:octocat:](https://github.com/)
