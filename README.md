@@ -99,7 +99,7 @@ Further documentation is included in this repository in regards to the project. 
 -  Andleeb Farooq: [:octocat:](https://github.com/cerafinn)
 -  Buhari Maiwada: [:octocat:](https://github.com/)
 -  Bryce Fransen: [:octocat:](https://github.com/)
--  Caitlin Talerico: [:octocat:](https://github.com/)
+-  Caitlin Talerico: [:octocat:](https://github.com/cait-tal)
 -  Deepak Agarwal: [:octocat:](https://github.com/)
 -  Devathidhan S: [:octocat:](https://github.com/)
 -  Garrett McPherson: [:octocat:](https://github.com/akalink)
