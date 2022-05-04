@@ -21,5 +21,4 @@ The endpoints for the SpaceEco API are linked below and include:
 * [Payment](./Payment.md)
 * [BillingDetails](./BillingDetails.md)
 * [Product](./Product.md)
-* [Cart](./Cart.md)
 * [Order](./Order.md)
