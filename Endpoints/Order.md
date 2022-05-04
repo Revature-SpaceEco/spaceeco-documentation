@@ -4,7 +4,7 @@
 Request Types |
 ------------------|
 [GET ALL](#End-point-All-Orders-As-Admin)
-[GET ONE FOR USER](#End-point-All-Orders-As-User)
+[GET ALL FOR USER](#End-point-All-Orders-As-User)
 [GET ONE FOR USER](#End-point-Singular-Order-As-User)
 [POST](#End-point-Add-Order-For-User)
 [DELETE](#End-point-Delete-Order-For-User)
@@ -68,7 +68,7 @@ Retrieves an array of all orders.
 
 ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃
 
-## End-point: Orders As User
+## End-point: ALL Orders As User
 Retrieves an array of orders for a specific user
 ### Method: GET
 >```
