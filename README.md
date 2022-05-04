@@ -29,9 +29,9 @@ You can find the deployed link and the repository link below:
 
 Deployed Link: [Deployed Link]()
 
-Frontend Link: [Repo Link](https://github.com/cerafinn/SpaceEco-frontend)
+Frontend Link: [Repo Link](https://github.com/Revature-SpaceEco/spaceeco-frontend)
 
-Backend Link: [Repo Link](https://github.com/cerafinn/SpaceEco-backend)
+Backend Link: [Repo Link](https://github.com/Revature-SpaceEco/spaceeco-backend)
 
 <br />
 
