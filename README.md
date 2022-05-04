@@ -30,7 +30,7 @@ See the [STARTUP.md](./STARTUP.md) file for for instructions on cloning and runn
 
 You can find the deployed link and the repository link below:
 
-Deployed Link: [Deployed Link]()
+Deployed Link: [Deployed Link](https://spaceecofinal.web.app/)
 
 Frontend Link: [Repo Link](https://github.com/Revature-SpaceEco/spaceeco-frontend)
 
@@ -77,18 +77,45 @@ Backend Link: [Repo Link](https://github.com/Revature-SpaceEco/spaceeco-backend)
 
 ### Completed
 
+- Register
+- Login
+- User Profile
+- Products Display
+  - Product Display
+- Cart
+- Checkout
+- Dark Mode
+
 ### Future Development
+
+- Quantity Select
+- Order History
+- Auto-fill previously saved information
+- Add Responsiveness
 
 <br />
 
 ## Improvements
 
+- NGRX
+  - Integrate NGRX fully into all aspects of the website
+
+- Users
+  - Implement password requirements when creating passwords
+  - Enable form validation for e-mail, address and card input
+
+- Checkout
+  - Integrate with Stripe payment gateway rather than developer created gateway
 
 <br />
 
 ## Screenshots
 
-![IMG](./assets/images/SpaceEco-screenshot.png)
+![IMG](./screenshots/RegisterPage.PNG)
+
+![IMG](./screenshots/LoginPage.PNG)
+
+![IMG](./screenshots/CartPage.PNG)
 
 <br />
 
@@ -98,7 +125,9 @@ The license for this project is the GNU GPL. For full details, refer to the LICE
 
 ## Tests
 
-Tests can be run on the frontend by running `npm test` or `npm run coverage` in the terminal. Tests can be run on the backend by running `./gradlew test` in the terminal.
+Tests can be run on the **frontend** by running `npm test` or `npm run coverage` in the terminal.
+
+Tests can be run on the **backend** by running `./gradlew test` in the terminal.
 
 <br />
 
@@ -133,7 +162,7 @@ Further documentation is included in this repository in regards to the project. 
 -  Joe Bahugun: [:octocat:](https://github.com/jbahugun)
 -  John Le: [:octocat:](https://github.com/kh-nguyen-le)
 -  Monika (Ayesha) Solanki: [:octocat:](https://github.com/)
--  Nikiloi Ellis: [:octocat:](https://github.com/)
+-  Nikoloi Ellis: [:octocat:](https://github.com/nikoloi-ellis)
 -  Samuel Valencia: [:octocat:](https://github.com/SamuelVZ)
 -  Shayne McPherson: [:octocat:](https://github.com/shaynemcp)
 -  Serena Guo: [:octocat:](https://github.com/siyanguo)
