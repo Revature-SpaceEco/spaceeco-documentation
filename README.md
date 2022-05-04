@@ -118,5 +118,6 @@ Further documentation is included in this repository in regards to the project. 
 -  Serena Guo: [:octocat:](https://github.com/)
 -  Soma: [:octocat:](https://github.com/)
 -  Tien Le: [:octocat:](https://github.com/tientle84)
+-  -  Tien Le: [:octocat:](https://github.com/wumby)
 
 <br />
