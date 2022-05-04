@@ -100,7 +100,7 @@ Further documentation is included in this repository in regards to the project. 
 * Deepak Agarwal: [:octocat:](https://github.com/)
 * Devathidhan S: [:octocat:](https://github.com/)
 * Garrett McPherson: [:octocat:](https://github.com/)
-* George Balch: [:octocat:](https://github.com/polydin
+* George Balch: [:octocat:](https://github.com/polydin)
 * Giancarlo Surce: [:octocat:](https://github.com/)
 * Jack Ziegler: [:octocat:](https://github.com/)
 * Javanshir Pashayev: [:octocat:](https://github.com/)
