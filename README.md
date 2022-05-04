@@ -48,20 +48,41 @@ Backend Link: [Repo Link](https://github.com/Revature-SpaceEco/spaceeco-backend)
    -  NGRX
    -  Karma/Jasmine
    -  Istanbul
+   -  Angular Material
+   -  Firebase
+
 -  Backend
    -  Spring Boot
+   -  Spring MVC
    -  Spring Security
-   -  Spring Web
    -  Lombok
    -  PostgresQL
+   -  Gradle
    -  H2 Database
+   -  JUnit
+   -  Mockito
    -  JSON Web Tokens
--  Combined
-   -  Cloud SQL
    -  GCP Compute Engine
+   -  Cloud SQL
+   -  Docker
+
+-  Combined
    -  SonarCloud
    -  GitHub Actions
    -  Trello
+
+<br />
+
+## Features
+
+### Completed
+
+### Future Development
+
+<br />
+
+## Improvements
+
 
 <br />
 
