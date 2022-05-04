@@ -6,7 +6,7 @@ Request Types |
 [POST](#End-point-Add-Singular-Address)
 
 
-## End-point: Get Singluar Address
+## End-point: Get Singular Address
 This retrieves the address of the user in the HTTP response
 
 ### Method: GET
