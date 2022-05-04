@@ -106,7 +106,7 @@ Further documentation is included in this repository in regards to the project. 
 -  George Balch: [:octocat:](https://github.com/polydin)
 -  Giancarlo Surce: [:octocat:](https://github.com/)
 -  Jack Ziegler: [:octocat:](https://github.com/)
--  Javanshir Pashayev: [:octocat:](https://github.com/)
+-  Javanshir Pashayev: [:octocat:](https://github.com/jpashayev)
 -  Jenob PJ: [:octocat:](https://github.com/)
 -  Jiwon Shim: [:octocat:](https://github.com/)
 -  Joe Bahugun: [:octocat:](https://github.com/jbahugun)
