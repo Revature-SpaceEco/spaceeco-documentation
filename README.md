@@ -106,7 +106,7 @@ Further documentation is included in this repository in regards to the project. 
 * Javanshir Pashayev: [:octocat:](https://github.com/)
 * Jenob PJ: [:octocat:](https://github.com/)
 * Jiwon Shim: [:octocat:](https://github.com/)
-* Joe Bahugan: [:octocat:](https://github.com/)
+* Joe Bahugun: [:octocat:](https://github.com/jbahugun)
 * John Le: [:octocat:](https://github.com/)
 * Monika (Ayesha) Solanki: [:octocat:](https://github.com/)
 * Nikiloi Ellis: [:octocat:](https://github.com/)
